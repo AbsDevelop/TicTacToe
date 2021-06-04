@@ -1,0 +1,10 @@
+C:\Users\abner\source\repos\CadastroDeClientes\CadastroDeClientes\bin\Debug\CadastroDeClientes.exe.config
+C:\Users\abner\source\repos\CadastroDeClientes\CadastroDeClientes\bin\Debug\CadastroDeClientes.exe
+C:\Users\abner\source\repos\CadastroDeClientes\CadastroDeClientes\bin\Debug\CadastroDeClientes.pdb
+C:\Users\abner\source\repos\CadastroDeClientes\CadastroDeClientes\obj\Debug\CadastroDeClientes.csprojAssemblyReference.cache
+C:\Users\abner\source\repos\CadastroDeClientes\CadastroDeClientes\obj\Debug\CadastroDeClientes.FormPr.resources
+C:\Users\abner\source\repos\CadastroDeClientes\CadastroDeClientes\obj\Debug\CadastroDeClientes.Properties.Resources.resources
+C:\Users\abner\source\repos\CadastroDeClientes\CadastroDeClientes\obj\Debug\CadastroDeClientes.csproj.GenerateResource.cache
+C:\Users\abner\source\repos\CadastroDeClientes\CadastroDeClientes\obj\Debug\CadastroDeClientes.csproj.CoreCompileInputs.cache
+C:\Users\abner\source\repos\CadastroDeClientes\CadastroDeClientes\obj\Debug\CadastroDeClientes.exe
+C:\Users\abner\source\repos\CadastroDeClientes\CadastroDeClientes\obj\Debug\CadastroDeClientes.pdb
